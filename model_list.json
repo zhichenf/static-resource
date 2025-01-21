@@ -2,7 +2,10 @@
     "models": [
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
-        "HyperdimensionNeptunia/nepgear",
+        [
+            "HyperdimensionNeptunia/nepnep",
+            "HyperdimensionNeptunia/nepgear"
+        ],
         "KantaiCollection/murakumo"
     ],
     "messages": [
